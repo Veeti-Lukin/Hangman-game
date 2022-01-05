@@ -2,7 +2,6 @@
 COMP.CS.100 Hangman game/ Hirsipuu peli.
 
 Tekijä:     Veeti Lukin
-Onumero:    050797635
 Sposti:     veeti.lukin@tuni.fi
 
 Description of the program:
