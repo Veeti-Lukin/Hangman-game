@@ -27,7 +27,6 @@ STATE_PICS = ("state0.png", "state1.png", "state2.png", "state3.png",
               "state4.png", "state5.png")
 STATE_LOST, STATE_WON = "state_l.png", "state_w.png"
 
-#todo: tarkissta ja kommentoi tää vielä
 class AppController:
     """
     This Class is the main controller for the app.
