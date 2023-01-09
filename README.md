@@ -1,1 +1,1 @@
-Object oriented hangman game wiht the graphical user interface
+Object oriented hangman game with graphical user interface
